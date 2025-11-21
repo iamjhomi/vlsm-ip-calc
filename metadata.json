@@ -1,0 +1,5 @@
+{
+  "name": "VLSM Architect",
+  "description": "A professional-grade IPv4 Variable Length Subnet Mask (VLSM) calculator. Optimize network allocations with precision, utilizing largest-first algorithms to prevent fragmentation and overlap.",
+  "requestFramePermissions": []
+}
